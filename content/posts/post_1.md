@@ -4,4 +4,18 @@ date: 2022-04-12
 description: 'Descripción de tu blog post'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+¡Hola!
+
+Quiero contaster todo lo que he aprendido en este camino:
+
+- Python
+- Jupyter Notebooks
+- HTML
+- CSS
+- JS
+- Skills de Programación
+- Git
+- GitHub
+- Node JS
+
+Por su atención gracias
